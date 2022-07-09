@@ -1,0 +1,38 @@
+<!ELEMENT TEI (teiHeader, text)>
+<!ATTLIST TEI
+          xmlns CDATA #REQUIRED>
+<!ELEMENT teiHeader (fileDesc)>
+<!ELEMENT fileDesc (titleStmt, publicationStmt)>
+<!ELEMENT titleStmt (title, author)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT author (persName)>
+<!ELEMENT persName (#PCDATA)>
+<!ELEMENT publicationStmt (publisher, address, date)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT address (settlement, addrline)>
+<!ELEMENT settlement (#PCDATA)>
+<!ATTLIST settlement
+          type CDATA #REQUIRED>
+<!ELEMENT addrline (#PCDATA)>
+<!ELEMENT date (#PCDATA)>
+<!ELEMENT text (body)>
+<!ELEMENT body (entry+)>
+<!ELEMENT entry (form, gram*, etym?, sense*, re*, def?, bibl*, note?, xr?)>
+<!ELEMENT form (orth?, gram?)>
+<!ELEMENT orth (#PCDATA)>
+<!ELEMENT sense (def, cit*, bibl*)>
+<!ELEMENT def (#PCDATA)>
+<!ELEMENT cit (bibil | bibl | q | trans)+>
+<!ELEMENT bibl (#PCDATA)>
+<!ELEMENT q (#PCDATA)>
+<!ELEMENT trans (#PCDATA)>
+<!ELEMENT bibil (#PCDATA)>
+<!ELEMENT gram (#PCDATA)>
+<!ELEMENT etym (#PCDATA)>
+<!ELEMENT re (note, form, bibl)>
+<!ELEMENT note (form?, bibl?)>
+<!ELEMENT xr (lbl, ref)>
+<!ATTLIST xr
+          type CDATA #REQUIRED>
+<!ELEMENT lbl (#PCDATA)>
+<!ELEMENT ref (#PCDATA)>

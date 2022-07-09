@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE TEI SYSTEM "C:\Users\pagona\Documents\kodikopoiisi\615.dtd">
+<TEI.2>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Greek lexicon of the Roman and Byzantine periods - Σελίδα 615</title>
+                <author>
+                    <persName> Σοφοκλής Ευαγγελινός Αποστολίδης</persName>
+                </author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Oxford University Press</publisher>
+                <address>
+                        <settlement type="city">Cambridge</settlement>
+                        <addrline>London: Humphrey Milford</addrline>
+                    </address>
+                    <date>1914</date>
+                </publicationStmt>
+            </fileDesc>
+        </teiHeader>
+        <text>
+            <body>
+                <entry>
+                    <form>
+                        <orth>Καί</orth>
+                    </form>
+                    <sense>
+                        <def>δή, δαί, after itnerrogative words.</def>
+                        <cit>
+                            <bibl>Polyb. 9, 34, 4</bibl>
+                            <q>Πως καὶ τολμᾶτε;</q>
+                        </cit>
+                        <cit>
+                            <bibl>Jos. Ant 17, 12, 2. 16, 4, 3, π/ 795. 5, 1, 2</bibl>
+                            <q>Τι καί βουλόμεν παρεῖεν.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Epict. 1, 10,8.</bibl>
+                            <bibl>Apollon.  D. Pron . 374 B</bibl>
+                            <q>Ποία δε και ἀνάγκη;</q>
+                        </cit>
+                        <cit>
+                            <bibl>Just.  Apol. 1.15. Frag 1588 B</bibl>
+                            <q>Τι και ἐθεράπευσεν αὐτήν;</q>
+                            <trans>why in the world?</trans>
+                        </cit>
+                        <cit>
+                            <bibl>Tatian. 17.  Iren. 956 C. Const. Apost. 1, 6</bibl>
+                            <q>Τι γάρ σοι καἰ λείπειν;</q>
+                            <trans>what defect, pray, dost thou find?</trans>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>Corresponding to οὖν, δήποτε, δηποτοῦν, L, -cunque, with relatives.</def>
+
+                        <cit>
+                            <bibl>Epict. 3, 3, 9</bibl>
+                            <q> Ὅσον καὶ θέλει! let him.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Iren. 1, 6, 2</bibl>
+                            <q>Το πνευματικὸν ἀδύνατον φθορὰν καταδέξασθαι, κἂν ὁποίαις συγκαταγένωνται πράξεσι.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Dion C. 38, 2, 3</bibl>
+                            <q>'Ὑπώπτευον γὰρ αὐτὸν, ἐφ ̓ ᾧ περ που καὶ ἐγίγνετο.</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>Eus. II, 725 B</bibl>
+                            <q>Ὅποι καἰ βούλοιντο, quoquo, quocumque.</q>
+                        </cit>
+            Chron. 79, 14
+        Τὰς τῶν προβάτων ἐρέας, οἷα καὶ ἦσαν, ἐποίουν indria, such as they were, without their being
+        dressed.
+                    </sense>
+                    <sense>
+                        <def>That is, =  ἤγουν , in grammatical language.</def>
+                        <cit>
+                            <bibl>Aristot. Rhet. 3, 11, 6</bibl>
+                            <q>Θράττει σε καὶ ἐξαπατᾷ.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Dion Thr. 630, 27</bibl>
+                            <q>Γράμματα δὲ λέγεται διὰ τὸ γραμμαῖς καὶ ξυσμοῖς τυποῦσθαι, the alphabetical figures are called γράμματα, because they are formed by γραμμαί, that is, scratches.</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>Parth. 1</bibl>
+                            <q>Μαστῆρας τε καὶ ἐρευνητάς.</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>Dion. H. V, 71,12. 71,16.</bibl>
+                            <bibl>Cleomed.  91,5.</bibl>
+                            <bibl>Apollon. S. 4, 25.</bibl>
+                            <bibl>Diosc. 3, 70 (77).</bibl>
+                            <bibl>Delet. p. 16.</bibl>
+                            <bibl>Cornut.  33.161.</bibl>
+                            <bibl>Just. Tryph.  122.</bibl>
+                            <bibl>Sext. 211, 28</bibl>
+                            <q>Πῆχυς ἐκ δυοῖν ἡμιπηχείων καὶ παλαιστῶν ἐξ καὶ δακτύλων εἰκοσιτεσσάρων συγκείμενος (πῆχυς = δύο ἡμιπήχεια = ἓξ παλαισταί = εἰκοσιτέσσαρες δάκτυλοι).</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>Did.  A.492 A.</bibl>
+                            <bibl>Porph. Cer. 459, 19. 461, 19.</bibl>
+                            <bibl>Compare Polyb. 1, 1, 1.</bibl>
+                            <q>Πρὸς τὴν αἵρεσιν καὶ παραδοχήν.</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>2.39.12</bibl>
+                            <q>̓Ἐπισκοτεῖσθαι καὶ κωλύεσθαι.</q>
+                        </cit>
+                        <cit>
+                            <bibl>2, 56, 3</bibl>
+                            <q>Εἰκῇ καὶ ὡς ἔτυχεν.</q>
+                        </cit>
+                        <cit>
+                            <bibl>9, 34,</bibl>
+                            <q>ὃ  ̓Ἀγωνοθετοῦντες καὶ συμβάλλοντες, setting them by the ears.</q>
+                        </cit>
+                        <cit>
+                            <bibil>40, 3,  2</bibil>
+                            <q> ̓Ἀνοίᾳ καὶ παρακοπῆ.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Plut. II, 549 B.</bibl>
+                            <q>This is a species of parellelism</q>
+                        </cit>
+
+                        <cit>
+                            <bibl>Also, Luc. Act. 13, 9</bibl>
+                            <q>Σαῦλος δὲ ὁ καἰ Παῦλος, called also Paul.</q>
+                        </cit>
+
+                    </sense>
+                    <sense>
+                        <def>In expressions like the following, καὶ, With the verb subjoined to it, is equivalent to an infinitive, or to ἴνα with its appro- priate mood.</def>
+
+                        <cit>
+                            <bibl>Sept. Lev. 14, 5 Hpoordger 6</bibl>
+                            <q>ἱερεὺς καὶ σφάξουσι τὸ ὀρνίθιον, the priest shall command, and they shall kill the bird; that is, the priest shall command that they kill the bird.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Num. 5, 2</bibl>
+                            <q>Πρόσταξον τοῖς υἱοῖς Ἰσραὴλ καὶ ἐξαποστειλάτωσαν ἐκ τῆς παρεμβολῆς πάντα λεπρόν.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Nehem. 13, 9. 19</bibl>
+                            <q>Εἶπα καὶ ἔκλεισαν τὰς πύλας, καὶ εἶπα ὥστε μὴ ἀνοιγῆναι αὐτάς.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Sap. 2,6.</bibl>
+                            <bibl>Eus. Alex. 385 A.</bibl>
+                            <bibl>Apocr. Act.</bibl>
+                            <bibl>Andr. et Matthiae 4.</bibl>
+                            <bibl>Chron. 74</bibl>
+                            <q>Ἐκέλευσε καὶ ἐκαύθη ἡ μυσαρὰ κεφαλή, he ordered it to burned, and the accursed head was burned.</q>
+                            <bibl>Mal. 39,8. Porph. Cer. 474, 13.</bibl>
+                        </cit>
+
+                    </sense>
+                    <sense>
+                        <def>Before μόνος, και is apparently superfluous.</def>
+                        <cit>
+                            <bibl>Dem. 218, 19</bibl>
+                            <q>Τῶν κατὰ θάλατταν καὶ μόνων ἀναμφισβητήτως εἶναι κυρίοι.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Just.  Cohort. 15</bibl>
+                            <q>Περὶ ἑνὸς καὶ μόνου θεοῦ.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Ιren. 3, 3, 4.</bibl>
+                            <bibl>Lyd. 171.</bibl>
+                            <bibl>Chron. 210</bibl>
+                            <q>Γυναῖκας καὶ μόνων, women, and only women.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Mal. 12, 15.  178.</bibl>
+                            <bibl>Theoph. 279, 13</bibl>
+                            <q>Σὺ καὶ μόνος οἶδας, thou, even thou only knowest; you know better than anybody else.</q>
+                        </cit>
+                        <cit>
+                            <bibl>Sept. Reg. 3, 8, 39</bibl>
+                            <q>Σὺ μονώτατος οἶδας τὴν καρδίαν πάντων υἱῶν ἀνθρώπων.</q>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>And the result will be.</def>
+                        <cit>
+                            <bibl>Sept. Sir. 9, 8</bibl>
+                            <q>Πίστευσον αὐτῷ καὶ ἀντιλήψεταί σου.</q>
+                        </cit>
+                        <cit>
+                            <bibl>3, 17</bibl>
+                            <q>Ἐν πραύτητι τὰ ἔργα σου διέξαγε καὶ ἀγαπηθήσῃ</q>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>For == γαρ.</def>
+                        <cit>
+                            <bibl>Sept. Tobit 5, 2</bibl>
+                            <q>Ἀλλὰ πῶς δυνήσομαι λαβεῖν τὸ ἀργύριον καὶ οὗ γινώσκω αὐτόν;</q>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>Lest = μή, ἴνα μή.</def>
+                        <cit>
+                            <bibl>Sept. Num. 4, 20</bibl>
+                            <q>Οὐ μὴ εἰσέλθωσιν ἰδεῖν ἐξάπινα τὰ ἅγια καὶ ἀποθανοῦνται</q>
+                        </cit>
+                        <cit>
+                            <bibl>4, 15</bibl>
+                            <q>Οὐχ ἅψονται τῶν ἁγίων, ἵνα μὴ ἀποθάνωσι.</q>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>And, before a comparative word repeated.</def>
+                        <cit>
+                            <bibl>Sext. 108, 28</bibl>
+                            <q>Ὑπάρχον ἄλλῳ καὶ ἄλλῳ, to many</q>
+                        </cit>
+                        <cit>
+                            <bibl>597, 16</bibl>
+                            <q>Ἤτοι μείζους καὶ μείζους ἀπὸ τοῦ κέντρου ἐπιόντων ἡμῶν, ἢ ἐλάσσους καὶ ἐλάσσους ἀπὸ τῆς ἐκτὸς περιφερείας ὑποβαι- νόντων, greater and greater, smaller and smaller.</q>
+                        </cit>
+                    </sense>
+                    <sense>
+                        <def>In examples like the following it is superfluous.</def>
+                        <cit>
+                            <bibl>Mal. 387</bibl>
+                            <q>Δεξαμένη παρὰ τῆς ἰδίας αὐτῆς μητρὸς γράμματα λάθρα καὶ παρεκάλεσε τὸν βασιλέα Ζήνωνα ἵνα ἀπολυθῇ ἀπὸ καστελλίου.</q>
+                        </cit>
+                        <cit>
+                            <bibl>389, 5</bibl>
+                            <q>Καὶ ἀκούσας Λεόντιος καὶ Ἰλλοῦς καὶ οἱ μετ’ αὐτοῦ καὶ ἀνῆλθαν μετὰ Βηρίνης εἰς τὸ Παπύριν καστέλλιον.</q>
+                        </cit>
+                    </sense>
+                </entry>
+
+
+                <entry>
+                    <form>
+                        <orth>Καϊιανοί</orth>
+                        <gram> οι, ῶν, οἱ,</gram>
+                    </form>
+                    <etym>Κάϊν</etym>
+                    <sense>
+                        <def>Caiani, an ancient Christian (?) sect, who advocated muscular
+            Christianity, and were great admirers of all the reprobates of the Old
+            Testament, such as Esau, Korah, and the Sodomites: but Kain, the first
+            murderer on record, was regarded by them as the most perfect specimen
+            of humanity. Their Evangelist was, of course, Judas the traitor.
+                        </def>
+                        <bibl>Tertull. I, 1198 A. ΙΙ,</bibl>
+                        <bibl>46 Β.</bibl>
+                        <bibl>Orig. 1, 936 C.</bibl>
+                        <bibl>Epiph. I, 653 D.</bibl>
+                    </sense>
+
+                    <re>
+                        <note>Called also</note>
+                        <form>
+                            <orth> Καϊανισταί</orth>
+                        </form>
+                        <bibl>Clem. A. II, 553 A.</bibl>
+                    </re>
+
+                    <re>
+                        <note>Also,</note>
+                        <form>
+                            <orth>Καϊνισταί</orth>
+                        </form>
+                        <bibl>Theod. IV, 345 B.</bibl>
+                    </re>
+
+                    <re>
+                        <note>Also,</note>
+                        <form>
+                            <orth>Καινοί.</orth>
+                        </form>
+                        <bibl>Hippol. Haer. 438, 11. Theod.  IV, 368 A.</bibl>
+                    </re>
+                </entry>
+                <entry>
+
+                    <form>
+                        <orth>Καϊαφαϊκός</orth>
+                    </form>
+                    <gram>ή, όv,</gram>
+                    <def>of Καϊάφας.</def>
+                    <bibl>Theogn. Mon.</bibl>
+
+                    <note>
+                        <form>Also, καϊφαϊκός, incorrectly.</form>
+                        <bibl>Taras.  1429 Α.</bibl>
+                    </note>
+                </entry>
+
+                <entry>
+                    <form>
+                        <orth>Καίκουβος</orth>
+                    </form>
+                    <gram>ov</gram>
+
+                    <def>Caecubus.</def>
+                    <bibl>Strab. 5, 3, 6, p. 370, 5, οίνος.</bibl>
+                    <bibl>Diosc. 5, 10. Galen. VI, 436 B.</bibl>
+                </entry>
+
+                <entry>
+                    <form>
+                        <orth>Κάϊν</orth>
+                    </form>
+                    <gram>, o,  indeclinable,</gram>
+                    <sense>
+                        <def> Cain, a son of Adam.</def>
+                        <bibl>Sept. Gen. 4, 1, et alibi.</bibl>
+                    </sense>
+                    <note>Josephus calls him Κάῑς.</note>
+                </entry>
+
+                <entry>
+
+                    <form>
+                        <orth>καίνισις</orth>
+                    </form>
+                    <gram>εως, ἡ,</gram>
+                    <etym>καινίζω</etym>
+                    <sense>
+                        <def>renovation</def>
+                        <bibl>Simo 200, 16.</bibl>
+                    </sense>
+                </entry>
+
+                <entry>
+                    <form>
+                        <orth>καινισμός</orth>
+                    </form>
+                    <gram>, οῦ, ο νυν,</gram>
+                    <sense>
+                        <def>innovation.</def>
+                        <bibl>Gangr., 21. Antec.  2, 14, p. 378.</bibl>
+                    </sense>
+                </entry>
+
+                <entry>
+
+                    <form>
+                        <orth>Καϊνισταί</orth>
+                    </form>
+                    <gram>, ὢν, οἱ,</gram>
+                    <xr type="syn">
+                        <lbl>see</lbl>
+                        <ref>Καΐανοί</ref>
+                    </xr>
+                </entry>
+
+                <entry>
+                    <form>
+                        <orth>καινοδοξέω</orth>
+                    </form>
+                    <gram> ήσω,</gram>
+                    <gram>καινόδοξος</gram>
+                    <sense>
+                        <def>  to have new plans about anything, to innovate.</def>
+                        <bibl>Jos. Ant. 16, 11, 1</bibl>
+                    </sense>
+                    <note>[but recent editors καινοτομεω]</note>
+                </entry>
+
+                <entry>
+                    <form>
+                        <orth>καινόδοξος,</orth>
+                    </form>
+                    <gram> ον,</gram>
+
+                    <etym>καινός, δόξα</etym>
+                    <sense>
+                        <def>having new plans. innovating.</def>
+                        <bibl> Greg. Naz. III, 1152 A.</bibl>
+                    </sense>
+                </entry>
+            </body>
+        </text>
+</TEI.2>

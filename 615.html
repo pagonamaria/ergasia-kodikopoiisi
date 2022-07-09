@@ -1,0 +1,63 @@
+<html>
+<body>
+    <button onclick="myFunc()">LoadData()</button>
+    <ul id="lista-leksewn">
+    </ul>
+
+
+<script>
+    async function _getFile(url) {
+        let response = await fetch(url, {
+            method: 'GET',
+        })
+        let obj = await response.text()
+        return obj
+    }
+
+    async function myFunc() {
+        resp = await _getFile("615.xml")
+        parser = new DOMParser();
+        xmlDoc = parser.parseFromString(resp, "text/xml");
+        // Pare ta entries
+        entries_leksikou = xmlDoc.getElementsByTagName("entry")
+
+    str = ''
+    for (entry of entries_leksikou) {
+        word = entry.getElementsByTagName("orth")[0].innerHTML
+        wordhtml = "<b><u>" + word + "</b></u>:"
+
+        senseshtml = ""
+        senses = entry.getElementsByTagName("sense")
+        for (sense of senses) {
+
+            def = sense.getElementsByTagName("def")[0].innerHTML
+
+            senseshtml =  senseshtml + "<li>" + def + "</li>"
+
+
+            biblshtml  = ""
+            bibls = sense.getElementsByTagName("bibl")
+            for (i = 0; i < bibls.length; i++) {
+                biblshtml =  biblshtml + bibls[i].innerHTML + ","
+            }
+
+            citshtml  = ""
+            cits = sense.getElementsByTagName("cit")
+            for (i = 0; i < cits.length; i++) {
+                citshtml = citshtml + cits[i].innerHTML  + "<br/>"
+            }
+
+
+
+            senseshtml = senseshtml +  "<b>Examples</b>: <br/>" + citshtml + "\n" + "<b>References in bibliography</b>: " + biblshtml
+        }
+
+        item = "<li>" + wordhtml + "<ol>" + senseshtml + " </ol>" + "</li>"
+        str = str + item
+    }
+    document.getElementById("lista-leksewn").innerHTML = str
+    }
+</script>
+</body>
+
+</html>
